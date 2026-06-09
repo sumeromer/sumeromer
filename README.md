@@ -20,7 +20,8 @@
 
 ## Highlights
 
-- ⚖️ [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial) a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act ([slides in German](https://sumeromer.github.io/rag-tutorial)).
+> [!NOTE]
+> [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial) a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act ([slides in German](https://sumeromer.github.io/rag-tutorial)).
 
 ## Technical skills
 
