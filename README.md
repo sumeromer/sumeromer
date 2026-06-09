@@ -24,8 +24,8 @@ After a PhD and postdoctoral research in computer vision and medical AI, I am fo
   Practical AI governance, validation, documentation, and lifecycle processes for the EU AI Act, GDPR, and ISO/IEC 42001.
   TÜV Rheinland certified AI Officer / KI-Beauftragter.
 
-## 🧩 Selected project
-_[June 2026]_ [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial): A hands-on tutorial for building a fully local RAG pipeline using Qwen2.5 to answer questions about the EU AI Act. The project covers a simple RAG system design to answer practical AI governance questions. [(Slides in German)](https://sumeromer.github.io/rag-tutorial)
+## 🧩 Highlights
+[RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial): A hands-on tutorial for building a fully local RAG pipeline using Qwen2.5 to answer questions about the EU AI Act. The project covers a simple RAG system design to answer practical AI governance questions. [(Slides in German)](https://sumeromer.github.io/rag-tutorial)
 
 ## 🛠️ Technical skills
 
