@@ -26,9 +26,7 @@ After a PhD and postdoctoral research in computer vision and medical AI, I am fo
 
 ## 🧩 Selected project
 
-#### _June 2026_ [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial)  
-A hands-on tutorial for building a fully local RAG pipeline using Qwen2.5 to answer questions about the EU AI Act.  
-The project covers retrieval, local inference, prompt design, and practical AI governance workflows. [(Slides in German)](https://sumeromer.github.io/rag-tutorial)
+- _June 2026_ [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial): A hands-on tutorial for building a fully local RAG pipeline using Qwen2.5 to answer questions about the EU AI Act. The project covers a simple RAG system design to answer practical AI governance questions. [(Slides in German)](https://sumeromer.github.io/rag-tutorial)
 
 ## 🛠️ Technical skills
 
