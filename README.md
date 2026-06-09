@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-555?style=flat&logo=googlechrome&logoColor=white)](https://sumeromer.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suemer.oemer@outlook.com)
 
-I build data-intensive software end to end, from requirements and design through deployment, across domains. After a PhD and postdoctoral research, I'm focused on bringing that work into industry.
+🚀 I build data-intensive software end to end, from requirements and design through deployment, across domains. After a PhD and postdoctoral research, I'm focused on bringing that work into industry.
 
 ## What I work on
 
@@ -20,7 +20,7 @@ I build data-intensive software end to end, from requirements and design through
 
 ## Highlights
 
-- ⚖️ **RAG over the EU AI Act** a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act.
+- ⚖️ [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial) a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act ([slides in German](https://sumeromer.github.io/rag-tutorial)).
 
 ## Technical skills
 
