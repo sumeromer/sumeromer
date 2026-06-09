@@ -1,41 +1,64 @@
 # Dr. Ömer Sümer
 
-**Applied scientist & AI/ML engineer** — _medical AI, computer vision, LLMs, and trustworthy ML._
+**Applied Scientist & AI/ML Engineer**
+Medical AI · Computer Vision · LLM Systems · Trustworthy AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-sumer)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=h5sbUygAAAAJ)
-[![Website](https://img.shields.io/badge/Website-555?style=flat&logo=googlechrome&logoColor=white)](https://sumeromer.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suemer.oemer@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omer-sumer)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?hl=en&user=h5sbUygAAAAJ)
+[![Website](https://img.shields.io/badge/Website-555?style=flat\&logo=googlechrome\&logoColor=white)](https://sumeromer.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:suemer.oemer@outlook.com)
 
-🚀 I build data-intensive software end to end, from requirements and design through deployment, across domains. After a PhD and postdoctoral research, I'm focused on bringing that work into industry.
+I build reliable AI/ML systems for medical, scientific, and regulated domains, from research prototypes to deployable software.
 
-## What I work on
+After a PhD and postdoctoral research in computer vision and medical AI, I am focused on bringing robust, useful AI systems into industry.
 
-- **Medical informatics & computer vision**  
-  computational pathology and surgical vision; segmentation, detection, and scene understanding.
-- **LLM & agentic systems**  
-  multi-agent pipelines, RAG, and the Model Context Protocol (MCP).
-- **AI governance**  
-  turning the EU AI Act, GDPR and ISO/IEC 42001 into practical software lifecycle and validation work (TÜV Rheinland–certified AI Officer / KI-Beauftragter).
-  
-## Highlights
+## 🔬 Focus areas
 
-> ⚖️ **[RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial)** — a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act. [Slides (German)](https://sumeromer.github.io/rag-tutorial)
+* **Medical AI & computer vision**
+  Computational pathology, surgical vision, segmentation, detection, and scene understanding.
 
-## Technical skills
+* **LLM systems & agents**
+  Local and cloud-based RAG, multi-agent pipelines, LangChain/LangGraph, LlamaIndex, CrewAI, and MCP-based workflows.
 
-- **Programming & software engineering:** Python (OOP, clean code), C/C++, CUDA, Bash; Git, CI/CD, Docker, REST APIs
-- **LLM & agents:** LangChain/LangGraph, LlamaIndex, CrewAI
-- **AI-assisted development:** LLM coding assistants & APIs (Claude, OpenAI/Codex), with review and validation of generated code
-- **Data & scientific computing:** NumPy, pandas, SciPy, OpenCV, scikit-image, PIL; HDF5
-- **MLOps & cloud:** MLflow, Weights & Biases, AWS, Azure ML, multi-node training
-- **Databases:** PostgreSQL, SQL, MongoDB
+* **Trustworthy and regulated AI**
+  Practical AI governance, validation, documentation, and lifecycle processes for the EU AI Act, GDPR, and ISO/IEC 42001.
+  TÜV Rheinland certified AI Officer / KI-Beauftragter.
 
-## Education
+## 🧩 Selected project
 
-- **Ph.D., Computer Science** — University of Tübingen *(magna cum laude)*
-- **B.Sc. / M.Sc., Electronics Engineering**
+### [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial)
+
+A hands-on tutorial for building a fully local RAG pipeline using Qwen2.5 to answer questions about the EU AI Act.
+
+The project covers retrieval, local inference, prompt design, and practical AI governance workflows.
+
+[Slides in German](https://sumeromer.github.io/rag-tutorial)
+
+## 🛠️ Technical skills
+
+**AI/ML**
+PyTorch, scikit-learn, MLflow, Weights & Biases, computer vision, medical image analysis, model evaluation
+
+**LLMs & agents**
+LangChain, LangGraph, LlamaIndex, CrewAI, RAG, MCP, OpenAI/Codex, Claude
+
+**Software engineering**
+Python, C/C++, CUDA, Bash, Git, CI/CD, Docker, REST APIs, clean code, OOP
+
+**Data & scientific computing**
+NumPy, pandas, SciPy, OpenCV, scikit-image, PIL, HDF5
+
+**Cloud & databases**
+AWS, Azure ML, PostgreSQL, SQL, MongoDB
+
+## 🎓 Education
+
+* **Ph.D., Computer Science**
+  University of Tübingen, Germany
+  *magna cum laude*
+
+* **B.Sc. / M.Sc., Electronics Engineering**
 
 ---
 
-<sub>Based in Germany · open to applied scientist / AI–ML engineering roles · EN · DE · TR</sub>
+<sub>Based in Germany · open to Applied Scientist / AI–ML Engineer roles · EN · DE · TR</sub>
