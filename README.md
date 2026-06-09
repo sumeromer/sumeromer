@@ -11,17 +11,13 @@
 
 ## What I work on
 
-- **Medical informatics & computer vision**   
-   computational pathology and surgical vision; segmentation, detection, and scene understanding.
-- **LLM & agentic systems**  
-   multi-agent pipelines, RAG, and the Model Context Protocol (MCP).
-- **AI governance**  
-  turning the EU AI Act, GDPR and ISO/IEC 42001 into practical software lifecycle and validation work (TÜV Rheinland–certified AI Officer / KI-Beauftragter).
+| 🩺 Medical AI & computer vision | 🤖 LLM & agentic systems | ⚖️ AI governance |
+|---|---|---|
+| Computational pathology and surgical vision; segmentation, detection, and scene understanding. | Multi-agent pipelines, RAG, and the Model Context Protocol (MCP). | Turning the EU AI Act, GDPR and ISO/IEC 42001 into practical lifecycle and validation work (TÜV Rheinland–certified AI Officer). |
 
 ## Highlights
 
-> [!NOTE]
-> [RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial) a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act ([slides in German](https://sumeromer.github.io/rag-tutorial)).
+> ⚖️ **[RAG over the EU AI Act](https://github.com/sumeromer/rag-tutorial)** — a hands-on tutorial building a fully local RAG pipeline (Qwen2.5) that answers questions about the EU AI Act. [Slides (German)](https://sumeromer.github.io/rag-tutorial)
 
 ## Technical skills
 
