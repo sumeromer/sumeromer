@@ -13,7 +13,7 @@
 
 | 🩺 Medical AI & computer vision | 🤖 LLM & agentic systems | ⚖️ AI governance |
 |---|---|---|
-| Computational pathology and surgical vision; segmentation, detection, and scene understanding. | Multi-agent pipelines, RAG, and the Model Context Protocol (MCP). | Turning the EU AI Act, GDPR and ISO/IEC 42001 into practical lifecycle and validation work (TÜV Rheinland–certified AI Officer). |
+| segmentation, detection, and scene understanding | Multi-agent pipelines, RAG, and the Model Context Protocol (MCP). | Turning the EU AI Act, GDPR and ISO/IEC 42001 into practical lifecycle and validation work (TÜV Rheinland–certified AI Officer). |
 
 ## Highlights
 
